@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Пишем код");
         System.out.println("Делаем коммит и пуш");
         System.out.println("Переходим на GitHub");
+       ?№3%%% 
     }
+    
 }
